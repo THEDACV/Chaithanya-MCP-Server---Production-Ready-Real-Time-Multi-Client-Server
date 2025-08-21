@@ -96,10 +96,10 @@ chaithanya-mcp-server/
 │── README.md                  # Project documentation
 
 📜 License
-
 📝 Copyright © 2025 [Chaithanya Vishwamitra D A]
 
-<p align="center"> Made with ❤️ by <b>Chaithanya Vishwamitra D A</b> <br> <img src="https://img.shields.io/badge/Server-Running-brightgreen?style=for-the-badge&logo=serverless&logoColor=white" /> </p> ```
+
+
 
 
 
