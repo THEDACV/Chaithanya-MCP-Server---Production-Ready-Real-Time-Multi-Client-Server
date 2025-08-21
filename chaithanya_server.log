@@ -1,0 +1,19 @@
+2025-08-21 20:31:20,651 - ChaithanyaMCPServer - INFO - Authentication tokens loaded
+2025-08-21 20:31:20,654 - ChaithanyaMCPServer - INFO - Chaithanya MCP Server started on 0.0.0.0:9999
+2025-08-21 20:31:20,654 - ChaithanyaMCPServer - INFO - Maximum clients: 100
+2025-08-21 20:32:20,662 - ChaithanyaMCPServer - INFO - Stats - Uptime: 60s, Connections: 0, Active: 0, Messages: 0 received, 0 sent
+2025-08-21 20:33:20,665 - ChaithanyaMCPServer - INFO - Stats - Uptime: 120s, Connections: 0, Active: 0, Messages: 0 received, 0 sent
+2025-08-21 20:33:20,708 - ChaithanyaMCPServer - INFO - Chaithanya MCP Server stopped
+2025-08-21 20:33:20,714 - ChaithanyaMCPServer - INFO - Chaithanya MCP Server stopped
+2025-08-21 20:33:40,095 - ChaithanyaMCPServer - INFO - Authentication tokens loaded
+2025-08-21 20:33:40,097 - ChaithanyaMCPServer - INFO - Chaithanya MCP Server started on 0.0.0.0:9999
+2025-08-21 20:33:40,098 - ChaithanyaMCPServer - INFO - Maximum clients: 100
+2025-08-21 20:34:40,098 - ChaithanyaMCPServer - INFO - Stats - Uptime: 60s, Connections: 0, Active: 0, Messages: 0 received, 0 sent
+2025-08-21 20:35:40,101 - ChaithanyaMCPServer - INFO - Stats - Uptime: 120s, Connections: 0, Active: 0, Messages: 0 received, 0 sent
+2025-08-21 20:36:40,104 - ChaithanyaMCPServer - INFO - Stats - Uptime: 180s, Connections: 0, Active: 0, Messages: 0 received, 0 sent
+2025-08-21 20:37:26,001 - ChaithanyaMCPServer - INFO - Chaithanya MCP Server stopped
+2025-08-21 20:37:26,003 - ChaithanyaMCPServer - INFO - Chaithanya MCP Server stopped
+2025-08-21 20:38:08,068 - ChaithanyaMCPServer - INFO - Authentication tokens loaded
+2025-08-21 20:38:08,070 - ChaithanyaMCPServer - INFO - Chaithanya MCP Server started on 0.0.0.0:9999
+2025-08-21 20:38:08,071 - ChaithanyaMCPServer - INFO - Maximum clients: 100
+2025-08-21 20:39:08,071 - ChaithanyaMCPServer - INFO - Stats - Uptime: 60s, Connections: 0, Active: 0, Messages: 0 received, 0 sent
